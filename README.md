@@ -114,7 +114,7 @@ Open the Final_project.ipynb file in a Jupyter Notebook or JupyterLab environmen
 ## 📈 Results
 The model evaluation results, including Accuracy, Precision, Recall, and F1-Score, are displayed in the code's output. Additionally, Confusion Matrices for classical models and training history plots for deep learning models are generated to facilitate a more detailed performance analysis.
 
-The project outputs, including plots and confusion matrices, will be saved in a directory named ***project_results.***
+The project outputs, including plots and confusion matrices, will be saved in a directory named `project_results.`
 
 ## 🎨 Visualization
 The project includes several visualizations to provide better insights into the data and results:
