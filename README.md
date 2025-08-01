@@ -1,6 +1,6 @@
 [فارسی (Persian)](README.fa.md)
 
-# Project: EEG Signal Analysis for ADHD Detection
+# EEG Signal Analysis for ADHD Classification
 
 This project is dedicated to the analysis and classification of Electroencephalogram (EEG) signals to diagnose Attention-Deficit/Hyperactivity Disorder (ADHD) in children. It employs a combination of classical machine learning algorithms and deep learning models to compare their performance and achieve the highest possible classification accuracy.
 
