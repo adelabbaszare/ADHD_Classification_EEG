@@ -124,7 +124,3 @@ The project includes several visualizations to provide better insights into the 
 **Topomaps:** The spatial distribution of power in different frequency bands across the scalp is displayed for both groups.
 
 **Feature Distribution:** Violin plots are used to show the distribution of the most discriminative features between the two groups.
-
-To run this project, the following libraries must be installed. You can install them using `pip`:
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn mne tensorflow xgboost
